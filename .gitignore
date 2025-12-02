@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+.hypothesis/
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Reference Materials
+Ref_Materials/
